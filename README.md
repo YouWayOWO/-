@@ -28,6 +28,7 @@
 <img width="3300" height="4404" alt="IMG_1820" src="https://github.com/user-attachments/assets/9be0c52c-4478-42d1-a60e-a7238ee02345" />
 
 ### 備註
+推薦閱讀完PDF後開始實作  
 Arduino程式函式庫請自行於library下載  
 任何問題歡迎郵件Gmail:andys0406219@gmail.com
 
