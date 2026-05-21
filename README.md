@@ -21,4 +21,12 @@
 | **DC電源轉接板** | 將電源進行轉接 | 電源分線 |
 | **輕觸開關** | 用于調整風速 | 按鈕輸入 |
 | **長螺絲與螺帽** | 本體之支撐 | 固定五金 |
+## 線路圖
+<img width="712" height="793" alt="未命名文件 (4)" src="https://github.com/user-attachments/assets/d06f7298-874e-434f-9d8d-3e0e1e09f232" />
+
+## 成品
+<img width="3300" height="4404" alt="IMG_1820" src="https://github.com/user-attachments/assets/9be0c52c-4478-42d1-a60e-a7238ee02345" />
+
+
+
 
